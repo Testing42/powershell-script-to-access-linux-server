@@ -1,0 +1,3 @@
+﻿@"
+ll
+"@ | plink.exe -ssh -no-antispoof -pw [password] [username]@[ipofserver]
